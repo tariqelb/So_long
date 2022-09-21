@@ -24,7 +24,8 @@ This project is a very small 2D game. Its purpose is to make you work with textu
 
 ### requirements
 The game use minilibx library, the link bellow is a guide to install it correctly.
-  https://harm-smits.github.io/42docs/libs/minilibx/getting_started.html
+
+https://harm-smits.github.io/42docs/libs/minilibx/getting_started.html
 
 ### Screenshot
 

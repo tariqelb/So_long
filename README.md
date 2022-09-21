@@ -28,4 +28,4 @@ The game use minilibx library, the link bellow is a guide to install it correctl
 
 ### Screenshot
 
-![Result](./screenshot/Minitalk.jpg)
+![Result](./screenshot/So_long.jpg)
